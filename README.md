@@ -18,4 +18,4 @@ https://www.nuget.org/packages/Discord.Net.Modules/
 
 
 
-just copy this in a copy paste this into a Console Application
+Just copy paste this into a Console Application
