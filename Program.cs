@@ -114,7 +114,7 @@ class Program
 
 
             _client.ExecuteAndWait(async () => {                                                                                //here we use out api key to connect the bot
-                await _client.Connect("MjIzOTI5MzA3MTY3MTk1MTM2.CrTF9A.aa-AhB_L_a5PZ_jUE2Qag7Rtvgg", TokenType.Bot);            //you get the your key from  https://discordapp.com/developers/applications/me#top
+                await _client.Connect("Your Api key here", TokenType.Bot);            //you get the your key from  https://discordapp.com/developers/applications/me#top
 
 
             });
